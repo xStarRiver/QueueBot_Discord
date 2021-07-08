@@ -1,0 +1,11 @@
+{
+    "Main":{
+        "help":"**指令說明**\n顯示本機械人指令說明",
+        "setup [server_id] [channel_id]":"**設定伺服器**\n設定伺服器運行頻道",
+        "set time(mins) message reaction":"**設定活動訊息**\ntime:數字(分鐘)\nmessage:`{\"title\":\"\",\"description\":\"\",\"thumbnail\":\"\",\"img\":\"\",\"footer\":\"\",\"author\":{\"name\":\"\",\"icon_url\":\"\",\"url\":\"\"}}`\nreaction:反應(:ballot_box_with_check:)",
+        "start":"**開始活動**\n",
+        "stop":"**停止活動**\n",
+        "list":"**DM活動記錄**\n",
+        "reset":"**重設活動記錄**\n"
+    }
+}
